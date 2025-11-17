@@ -1,5 +1,6 @@
-package Municipal.biblioteca.application.service;
+package Municipal.biblioteca;
 
+import Municipal.biblioteca.application.service.LivroService;
 import Municipal.biblioteca.domain.exception.BusinessException;
 import Municipal.biblioteca.domain.exception.NotFoundException;
 import Municipal.biblioteca.domain.model.Livro;
